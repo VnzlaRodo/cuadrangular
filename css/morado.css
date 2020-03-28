@@ -1,0 +1,21 @@
+body{
+	background: url("../img/Viene.jpg");
+	background-attachment: fixed;
+	transition: 500ms;
+}
+
+#logo{
+
+	background: #7436A1;
+
+}
+
+#menu li:hover{
+	background: #7436A1;	
+}
+
+.ver-mas{
+	
+	background: #7436A1;
+	
+}

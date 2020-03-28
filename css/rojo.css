@@ -1,0 +1,21 @@
+body{
+	background: url("../img/salva.jpg");
+	background-attachment: fixed;
+	transition: 500ms;
+}
+
+#logo{
+
+	background: crimson;
+
+}
+
+#menu li:hover{
+	background: crimson;	
+}
+
+.ver-mas{
+	
+	background: crimson;
+	
+}

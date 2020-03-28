@@ -1,0 +1,21 @@
+body{
+	background: url("../img/Sana.jpg");
+	background-attachment: fixed;
+	transition: 500ms;
+}
+
+#logo{
+
+	background: #1F87C4;
+
+}
+
+#menu li:hover{
+	background: #1F87C4;	
+}
+
+.ver-mas{
+	
+	background: #1F87C4;
+	
+}

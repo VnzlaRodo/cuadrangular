@@ -1,0 +1,21 @@
+body{
+	background: url("../img/Bautiza.jpg");
+	background-attachment: fixed;
+	transition: 500ms;
+}
+
+#logo{
+
+	background: #E5DF29;
+
+}
+
+#menu li:hover{
+	background: #E5DF29;	
+}
+
+.ver-mas{
+	
+	background: #E5DF29;
+	
+}
